@@ -1,0 +1,15 @@
+Comandos básicos do GIT/GITHUB
+
+Git init ->  Inicializa o repositório do git dentro do servidor local.
+
+Git clone -> Faz uma cópia do repositório do github.
+
+Git status -> Mostra o status do repositório local.
+
+Git add + do arquivo -> prepara o arquivo modificado para ser enviado a nuvem
+
+Git . || Git * -> Prepara todos os arquivos que foram modificados do projeto a fim de serem upados a nuvem.
+
+Git commit -m "descrição da alteração" -> Serve para inserir a alteração no servidor externo(nuvem)
+
+...
